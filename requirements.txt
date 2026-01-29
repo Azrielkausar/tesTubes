@@ -5,4 +5,3 @@ matplotlib
 streamlit
 folium
 streamlit-folium
-openpyxl
