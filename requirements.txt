@@ -4,3 +4,5 @@ openpyxl
 folium
 streamlit-folium
 matplotlib
+beautifulsoup4
+
