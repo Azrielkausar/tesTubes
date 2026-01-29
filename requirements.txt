@@ -1,8 +1,8 @@
-streamlit
+requests
+beautifulsoup4
 pandas
-openpyxl
+matplotlib
+streamlit
 folium
 streamlit-folium
-matplotlib
-beautifulsoup4
-
+openpyxl
